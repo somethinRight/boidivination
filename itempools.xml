@@ -1,0 +1,48 @@
+<ItemPools>
+	<Pool Name="treasure"/>
+	<Pool Name="shop"/>
+	<Pool Name="boss"/>
+	<Pool Name="devil"/>
+	<Pool Name="angel"/>
+	<Pool Name="secret"/>
+	<Pool Name="library"/>
+	<Pool Name="challenge"/>
+	<Pool Name="goldenChest"/>
+	<Pool Name="redChest"/>
+	<Pool Name="beggar"/>
+	<Pool Name="demonBeggar"/>
+	<Pool Name="curse"/>
+	<Pool Name="keyMaster"/>
+	<Pool Name="bossrush"/>
+	<Pool Name="dungeon"/>
+	<Pool Name="greedTreasure"/>
+	<Pool Name="greedBoss"/>
+	<Pool Name="greedShop"/>
+	<Pool Name="greedCurse"/>
+	<Pool Name="greedDevil"/>
+	<Pool Name="greedAngel"/>
+	<Pool Name="greedLibrary"/>
+	<Pool Name="greedSecret"/>
+	<Pool Name="greedGoldenChest"/>
+	<Pool Name="bombBum"/>
+	<Pool Name="batteryBeggar">
+		<!--The Battery-->
+		<Item Id="63" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Car Battery-->
+		<Item Id="356" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--9 Volt-->
+		<Item Id="116" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Sharp Plug-->
+		<Item Id="205" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Charged Baby-->
+		<Item Id="372" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Robo-Baby-->
+		<Item Id="95" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Robo Baby 2.0-->
+		<Item Id="267" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Tech.5-->
+		<Item Id="244" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Jacob's Ladder-->
+		<Item Id="494" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

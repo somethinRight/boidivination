@@ -41,10 +41,10 @@
 	<track id="83" name="Boss Death (jingle)" path="JINGLE OGG/Boss FIght jingle OUTRO v2_12.ogg" loop="false" />
 	<track id="84" name="Holy Room Find (jingle)" path="JINGLE OGG/Angel Room Appear V2_07.ogg" loop="false" />
 	<track id="85" name="Secret Room Find (jingle)" path="JINGLE OGG/secret room find v2_07.ogg" loop="false" />
-	<track id="87" name="Treasure Room Entry (jingle) 1" path="JINGLE OGG/apeasement.ogg" loop="true" />
-	<track id="88" name="Treasure Room Entry (jingle) 2" path="JINGLE OGG/apeasement.ogg" loop="true" />
-	<track id="89" name="Treasure Room Entry (jingle) 3" path="JINGLE OGG/apeasement.ogg" loop="true" />
-	<track id="90" name="Treasure Room Entry (jingle) 4" path="JINGLE OGG/apeasement.ogg" loop="true" />
+	<track id="87" name="Treasure Room Entry (jingle) 1" path="JINGLE OGG/apeasement.ogg" loop="false" />
+	<track id="88" name="Treasure Room Entry (jingle) 2" path="JINGLE OGG/apeasement.ogg" loop="false" />
+	<track id="89" name="Treasure Room Entry (jingle) 3" path="JINGLE OGG/apeasement.ogg" loop="false" />
+	<track id="90" name="Treasure Room Entry (jingle) 4" path="JINGLE OGG/apeasement.ogg" loop="false" />
 	<track id="91" name="Challenge Room Entry (jingle)" path="JINGLE OGG/Ambush jingle.V2_01.ogg" loop="false" />
 	<track id="92" name="Challenge Room Outro (jingle)" path="JINGLE OGG/Ambush Jinle outro V3_04.ogg" loop="false" />
 	<track id="93" name="Game Over (jingle)" path="JINGLE OGG/Isaac Died_02.ogg" loop="false" />
