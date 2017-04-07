@@ -1,0 +1,8 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Holy Mackeral!" gfx="GreekPoseidon.png" name="Poseidon"/>
+	<passive blackhearts = "2" cache = "tearflag damage" description="Fear the underworld!!" gfx="GreekHades.png" name="Hades"/>
+	<passive cache = "damage" description="The fury of the skies!" gfx="GreekZeus.png" name="Zeus"/>
+	<passive cache = "damage speed luck tearrate" description="The joys of wine...!" gfx="GreekDionysus.png" name="Dionysus"/>
+	<passive description="The regeneration of nature" gfx="GreekDemeter.png" hearts="2" maxhearts="2" name="Demeter"/>
+	<passive cache = "tearrate damage" description="The rage of battle!" gfx="GreekAres.png" name="Ares"/>
+</items>
