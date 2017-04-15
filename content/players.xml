@@ -2,5 +2,4 @@
 	<player bigportrait="playerportraitbig_ruby.png" hp="6" name="ruby" nameimage="playerName_ruby.png" portrait="playerportrait_ruby.png" skin="character_ruby.png" skinColor="-1" />
 	<player bigportrait="playerportraitbig_saph.png" hp="6" name="saph" nameimage="PlayerName_saph.png" portrait="playerportrait_saph.png" skin="character_saph.png" skinColor="-1" />
 	<player bigportrait="playerportraitbig_anti.png" hp="4" name="anti" nameimage="playerName_anti.png" portrait="playerportrait_anti.png" skin="character_anti.png" skinColor="-1" />
-
-	</players>
+</players>
