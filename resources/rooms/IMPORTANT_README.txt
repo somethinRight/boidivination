@@ -9,7 +9,3 @@ The rooms are sorted into folders
 	-"Single Player Rooms" is where the custom single player room files go
 	-"Multiplayer Rooms" is where the custom Co-Op room files go
 	-"Unchanged" holds the room files that I haven't changed yet for easy access when I need them
-
-You can use the google form here https://goo.gl/forms/i15NqMSFpVnZxZMT2 or @ me on discord if you have any feedback or suggestions for the rooms.	
-	
--Sycand
